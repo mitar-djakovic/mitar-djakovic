@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🏄‍ About Me:
 Hi, my name is Mitar.<br><br>I am an senior software engineer and an expert in building scalable apps. <br>At the momment working as a freelancer/contract at Toptal, but I am also interested in projects outside Toptal.<br>My weapons of choice are React/Nextjs on frontend and Node/Express on the backend side, but like a lot of curios people always trying to improve current skills and learn new one.<br>At the momment you can find some projects that I build for the reasons I dont even remmeber, except Ohh Wee project. That one I build from scratch as a platfrom for learning new skills.<br> <br>If you have any question, feel free to send a message.<br>
 
 
